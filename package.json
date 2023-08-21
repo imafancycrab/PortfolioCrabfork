@@ -1,6 +1,6 @@
 {
   "name": "portfolio-for-this-joopytor-guy-in-tailwind",
-   "version": "0.1.0",
+ "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
