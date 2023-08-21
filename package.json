@@ -1,11 +1,10 @@
 {
   "name": "portfolio-for-this-joopytor-guy-in-tailwind",
-  "version": "0.1.0",
+   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",{
-  "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
